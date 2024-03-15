@@ -1,0 +1,7 @@
+{
+  "name": "lenguaje5-crud",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
