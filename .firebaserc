@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lp-v-f3b72": {
+      "hosting": {
+        "app": [
+          "lp-v-f3b72"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lp-v-f3b72"
+  }
+}
